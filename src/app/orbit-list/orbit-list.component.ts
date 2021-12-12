@@ -28,5 +28,6 @@ export class OrbitListComponent implements OnInit {
 		});
 	}
 	test(mess){console.log(mess)}
+	test2(){alert("load")}
 
 }
